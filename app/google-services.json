@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982863319092",
+    "project_id": "concordteste",
+    "storage_bucket": "concordteste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982863319092:android:a1cf9451a80e6976cefa61",
+        "android_client_info": {
+          "package_name": "com.example.concord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982863319092-4f2q4am1ttl2eheosahvuuv3r6usne2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4m_lwu5_m3pknfGwTBKBcOLsTX4MqL0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982863319092-4f2q4am1ttl2eheosahvuuv3r6usne2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
