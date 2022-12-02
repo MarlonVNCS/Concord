@@ -95,9 +95,10 @@ public class MainActivity extends AppCompatActivity {
     // Fill the App ID of your project generated on Agora Console.
     private final String appId = "11286fbd9bad4255ad81a8bc1ae74720";
     // Fill the channel name.
-    private String channelName = "Canal";
+    private String channelName = "Concord";
     // Fill the temp token generated on Agora Console.
-    private String token = "007eJxTYHD9MXHvq7xJUUH3onp49q9If6PRU7F1o9fSGY2MAg4fD5YrMBgaGlmYpSWlWCYlppgYmZomplgYJlokJRsmppqbmBsZHP+WktwQyMgwIzODiZEBAkF8VgbnxLzEHAYGAO8yIWA=";
+    // Token expira em 24 horas
+    private String token = "007eJxTYHha9MzUlItt9+V32sx2F9dJv3ZR+LS0iD/w3+1ZTE9+rZ2gwGBoaGRhlpaUYpmUmGJiZGqamGJhmGiRlGyYmGpuYm5k8NmmM7khkJHhEON+VkYGCATx2Rmc8/OS84tSGBgA+GAhwA==";
     // An integer that identifies the local user.
     private int uid = 0;
     // Track the status of your connection
